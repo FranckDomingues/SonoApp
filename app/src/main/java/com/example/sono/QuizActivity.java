@@ -69,25 +69,30 @@ public class QuizActivity extends AppCompatActivity {
         quid++;
     }
 
-    public void btClick(View view){
-        RadioGroup grp = (RadioGroup)findViewById(R.id.radioGroup1);
-        RadioButton answer = (RadioButton)findViewById(grp.getCheckedRadioButtonId());
+    public void btClick(View view) {
+        RadioGroup grp = (RadioGroup) findViewById(R.id.radioGroup1);
+        RadioButton answer = (RadioButton) findViewById(grp.getCheckedRadioButtonId());
 
-        if(answer.getId() == R.id.radio0){
-            score = score+4;
-        }else if(answer.getId() == R.id.radio1){
-                score = score+3;
-            }else if(answer.getId() == R.id.radio2){
-                score = score+2;
-        }else if(answer.getId() == R.id.radio3){
-            score = score+1;
+        if (answer.getId() == R.id.radio0) {
+            score = score + 4;
+        } else if (answer.getId() == R.id.radio1) {
+            score = score + 3;
+        } else if (answer.getId() == R.id.radio2) {
+            score = score + 2;
+        } else if (answer.getId() == R.id.radio3) {
+            score = score + 1;
         }
 
-            Log.d("Score", "Your score: "+score);
-            scoreno.setText(" "+score);
+        Log.d("Score", "Your score: " + score);
+        scoreno.setText(" " + score);
 
-        currentQuestion = questionList.get(quid);
-        setQuestionView();
+        if (quid < questionList.size()) {
+            currentQuestion = questionList.get(quid);
+            setQuestionView();
+        }
+        else{
+
+        }
 
     }
 

@@ -35,30 +35,29 @@ public class NetworkManager {
     public static synchronized NetworkManager getInstance(Context context){
 
         if (null == instance)
-            instance = new NetworkManager(Context);
+            instance = new NetworkManager(context);
         return instance;
     }
 
     public static synchronized NetworkManager getInstance()
     {
-        if (null == instance)
+        if (null == instance) {
+            throw new IllegalStateException(NetworkManager.class.getSimpleName() + "is not initialized, call getInstance first");
         }
-            throw new IllegalStateException(NetworkManager.class.getSimpleName() +
-                                            "is not initialized, call getInstance first");
-        {
         return instance;
     }
 
     public void somePostRequestReturningString(Object param1, final SomeCustomListener<String> listener){
 
-            String url = prefixURL + "http://localhost:8081/question"; //revisar!!!
+            String url = prefixURL + "http://localhost:8081/question"; //revisar!!! revisar!!
             Map<String, Object> jsonParams = new HashMap<>();
             jsonParams.put("param1", param1);
 
             JsonObjectRequest request = new JsonObjectRequest(Request.Method.POST, url, new JSONObject(jsonParams),
                     new Response.Listener<JSONObject>() {
                         @Override
-                        public void onResponse(JSONObject response) {
+                        public void onResponse(JSONObject response)
+                        {
                             Log.d(TAG + ": ", "somePostRequest Response : " + response.toString());
                             if (null != response.toString())
                                 listener.getResult(response.toString());

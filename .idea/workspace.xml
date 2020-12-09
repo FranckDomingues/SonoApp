@@ -27,7 +27,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_2_API_27]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -237,11 +237,12 @@
     </state>
     <state x="1591" y="197" key="Vcs.Push.Dialog.v2/0.25.1280.724/1280.25.1440.875@1280.25.1440.875" timestamp="1606340479965" />
     <state x="276" y="167" key="Vcs.Push.Dialog.v2/0.25.1280.724@0.25.1280.724" timestamp="1607276784444" />
-    <state x="420" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606419736959">
+    <state x="420" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607534887215">
       <screen x="0" y="25" width="1280" height="724" />
     </state>
     <state x="1752" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.732/1280.23.1440.877@1280.23.1440.877" timestamp="1606107679381" />
     <state x="420" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1280.724/1280.25.1440.875@0.25.1280.724" timestamp="1606419736959" />
+    <state x="420" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1280.724@0.25.1280.724" timestamp="1607534887214" />
     <state x="1721" y="353" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606338795148">
       <screen x="1280" y="25" width="1440" height="875" />
     </state>
