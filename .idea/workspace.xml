@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9091ba6b-2294-44fb-9a4e-5e2d3654d510" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="$PROJECT_DIR$/.git" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kfzDJyNeWzivYMShUGQBmjy299" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Sono.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9091ba6b-2294-44fb-9a4e-5e2d3654d510" name="Default Changelist" comment="" />
+      <created>1578575834071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578575834071</updated>
+    </task>
+    <task id="LOCAL-00001" summary="21-11-2020">
+      <created>1606084241769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606084241769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="21-11-2020">
+      <created>1606087623519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606087623519</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="21-11-2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="21-11-2020" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="275" key="#Notifications" timestamp="1606419743219">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state x="524" y="275" key="#Notifications/0.25.1280.724/1280.25.1440.875@0.25.1280.724" timestamp="1606419743219" />
+    <state x="1869" y="327" key="#Notifications/0.25.1280.724/1280.25.1440.875@1280.25.1440.875" timestamp="1606338858608" />
+    <state x="132" y="205" width="960" height="439" key="DiffContextDialog" timestamp="1606419724739">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state x="1429" y="241" width="1080" height="531" key="DiffContextDialog/0.23.1280.732/1280.23.1440.877@1280.23.1440.877" timestamp="1606162522176" />
+    <state x="132" y="205" width="960" height="439" key="DiffContextDialog/0.25.1280.724/1280.25.1440.875@0.25.1280.724" timestamp="1606419724739" />
+    <state x="1429" y="243" width="1080" height="530" key="DiffContextDialog/0.25.1280.724/1280.25.1440.875@1280.25.1440.875" timestamp="1606338858918" />
+    <state x="441" y="229" key="Github.CreateGistDialog" timestamp="1607532250228">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state x="441" y="229" key="Github.CreateGistDialog/0.25.1280.724@0.25.1280.724" timestamp="1607532250228" />
+    <state width="619" height="109" key="GridCell.Tab.0.bottom" timestamp="1607532453948">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state width="619" height="109" key="GridCell.Tab.0.bottom/0.25.1280.724@0.25.1280.724" timestamp="1607532453948" />
+    <state width="619" height="109" key="GridCell.Tab.0.center" timestamp="1607532453939">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state width="619" height="109" key="GridCell.Tab.0.center/0.25.1280.724@0.25.1280.724" timestamp="1607532453939" />
+    <state width="619" height="109" key="GridCell.Tab.0.left" timestamp="1607532453934">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state width="619" height="109" key="GridCell.Tab.0.left/0.25.1280.724@0.25.1280.724" timestamp="1607532453934" />
+    <state width="619" height="109" key="GridCell.Tab.0.right" timestamp="1607532453940">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state width="619" height="109" key="GridCell.Tab.0.right/0.25.1280.724@0.25.1280.724" timestamp="1607532453940" />
+    <state x="228" y="134" width="982" height="506" key="IDE.errors.dialog" timestamp="1606421783140">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state x="228" y="134" width="982" height="506" key="IDE.errors.dialog/0.25.1280.724/1280.25.1440.875@0.25.1280.724" timestamp="1606421783140" />
+    <state x="151" y="25" width="997" height="724" key="SettingsEditor" timestamp="1607533517123">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state x="1450" y="111" key="SettingsEditor/0.23.1280.732/1280.23.1440.877@1280.23.1440.877" timestamp="1606107671700" />
+    <state x="151" y="25" width="997" height="724" key="SettingsEditor/0.25.1280.724@0.25.1280.724" timestamp="1607533517122" />
+    <state x="276" y="167" key="Vcs.Push.Dialog.v2" timestamp="1607276784444">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state x="1591" y="197" key="Vcs.Push.Dialog.v2/0.25.1280.724/1280.25.1440.875@1280.25.1440.875" timestamp="1606340479965" />
+    <state x="276" y="167" key="Vcs.Push.Dialog.v2/0.25.1280.724@0.25.1280.724" timestamp="1607276784444" />
+    <state x="420" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606419736959">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state x="1752" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.732/1280.23.1440.877@1280.23.1440.877" timestamp="1606107679381" />
+    <state x="420" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1280.724/1280.25.1440.875@0.25.1280.724" timestamp="1606419736959" />
+    <state x="1721" y="353" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606338795148">
+      <screen x="1280" y="25" width="1440" height="875" />
+    </state>
+    <state x="1721" y="353" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1280.724/1280.25.1440.875@1280.25.1440.875" timestamp="1606338795148" />
+    <state x="478" y="182" key="svn.repositoryBrowser" timestamp="1606419820048">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state x="478" y="182" key="svn.repositoryBrowser/0.25.1280.724/1280.25.1440.875@0.25.1280.724" timestamp="1606419820048" />
+  </component>
+</project>
