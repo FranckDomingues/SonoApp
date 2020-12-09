@@ -69,7 +69,7 @@ public class NetworkManager {
                             if (null != error.networkResponse) {
 
                                 Log.d(TAG + ": ", "Error Response code: " + error.networkResponse.statusCode);
-                                listener.getResult(false);
+                                listener.getResult(" ");
                             }
                         }
                     });

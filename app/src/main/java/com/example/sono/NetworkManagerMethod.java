@@ -4,7 +4,7 @@ public class NetworkManagerMethod {
 
     public void someMethod()
     {
-        NetworkManager.getInstance().somePostRequestReturningString(someObject, new SomeCustomListener<String>()
+       /* NetworkManager.getInstance().somePostRequestReturningString(someObject, new SomeCustomListener<String>()
         {
             @Override
             public void getResult(String result)
@@ -14,7 +14,7 @@ public class NetworkManagerMethod {
                     //do what you need with the result...
                 }
             }
-        });
+        });*/
     }
 
 
