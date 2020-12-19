@@ -28,25 +28,10 @@ public class ResultActivity extends AppCompatActivity {
          SharedPreferences sharedPreferences = getSharedPreferences("Result", Context.MODE_PRIVATE);
         int score1 = sharedPreferences.getInt(result, score);
 
-//
-//        Bundle b = getIntent().getExtras();
-//        int score = b.getInt("score");
+
         ratingBar.setRating(score1);
         scoreTxtView.setText(String.valueOf(score1));
 
-//        if(score1 == 0){
-//            img.setImageResource(R.drawable.score_0);
-//        }else if(score1 == 1){
-//            img.setImageResource(R.drawable.score_1);
-//        }else if(score1 == 2){
-//            img.setImageResource(R.drawable.score_2);
-//        }else if(score1 == 3){
-//            img.setImageResource(R.drawable.score_3);
-//        }else if(score1 == 4){
-//            img.setImageResource(R.drawable.score_4);
-//        }else if(score1 == 5){
-//            img.setImageResource(R.drawable.score_5);
-//        }
     }
 
     @Override

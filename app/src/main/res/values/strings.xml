@@ -7,7 +7,7 @@
     <string name="login">Login</string>
     <string name="password">Password</string>
     <string name="e_mail">Email</string>
-    <string name="tag">Let\'s join us and \nBuild a better dreams</string>
+    <string name="tag">Let\'s join us and \nBuild better dreams</string>
     <string name="swipe_right_for_login">Swipe Right for Login</string>
     <string name="register">Register</string>
     <string name="re_type_password">Re-type Password</string>
@@ -36,6 +36,7 @@
     <string name="ansB">"Quase sempre"</string>
     <string name="ansC">"Quase nunca"</string>
     <string name="ansD">"Nunca"</string>
+    <string name="sleepScoreText">Sleep Score</string>
 
 
 </resources>

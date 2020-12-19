@@ -2,7 +2,9 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <target>android-27</target>
+      </config>
     </shared>
   </component>
   <component name="BranchesTreeState">
@@ -45,6 +47,8 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -197,6 +201,10 @@
     </state>
     <state x="524" y="275" key="#Notifications/0.25.1280.724/1280.25.1440.875@0.25.1280.724" timestamp="1606419743219" />
     <state x="1869" y="327" key="#Notifications/0.25.1280.724/1280.25.1440.875@1280.25.1440.875" timestamp="1606338858608" />
+    <state x="228" y="142" key="AndroidCreateResourceFileDialog" timestamp="1607994271268">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state x="228" y="142" key="AndroidCreateResourceFileDialog/0.25.1280.724@0.25.1280.724" timestamp="1607994271268" />
     <state x="132" y="205" width="960" height="439" key="DiffContextDialog" timestamp="1606419724739">
       <screen x="0" y="25" width="1280" height="724" />
     </state>
@@ -243,6 +251,11 @@
     <state x="1752" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.732/1280.23.1440.877@1280.23.1440.877" timestamp="1606107679381" />
     <state x="420" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1280.724/1280.25.1440.875@0.25.1280.724" timestamp="1606419736959" />
     <state x="420" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1280.724@0.25.1280.724" timestamp="1607534887214" />
+    <state x="235" y="176" width="1280" height="724" key="dock-window-1" timestamp="1608415285354">
+      <screen x="0" y="25" width="1280" height="724" />
+    </state>
+    <state x="235" y="176" width="1280" height="724" key="dock-window-1/0.25.1280.724/1280.25.1440.875@0.25.1280.724" timestamp="1608415285354" />
+    <state x="0" y="0" width="1280" height="800" key="dock-window-1/0.25.1280.724@0.25.1280.724" timestamp="1607997028276" />
     <state x="1721" y="353" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606338795148">
       <screen x="1280" y="25" width="1440" height="875" />
     </state>
