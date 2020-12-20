@@ -18,6 +18,7 @@ import androidx.appcompat.widget.Toolbar;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.Objects;
 
 public class QuizActivity extends AppCompatActivity {
 
@@ -90,8 +91,9 @@ public class QuizActivity extends AppCompatActivity {
             currentQuestion = questionList.get(quid);
             setQuestionView();
         }
-        else{
-
+        else {
+            currentQuestion.equals(10);
+            finish();
         }
 
     }

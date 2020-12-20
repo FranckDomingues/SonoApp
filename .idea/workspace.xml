@@ -49,6 +49,7 @@
         <option value="Class" />
         <option value="layoutResourceFile" />
         <option value="resourceFile" />
+        <option value="valueResourceFile" />
       </list>
     </option>
   </component>
@@ -205,6 +206,10 @@
       <screen x="0" y="25" width="1280" height="724" />
     </state>
     <state x="228" y="142" key="AndroidCreateResourceFileDialog/0.25.1280.724@0.25.1280.724" timestamp="1607994271268" />
+    <state x="462" y="164" key="AndroidCreateXmlResourceDialog" timestamp="1608422997283">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="462" y="164" key="AndroidCreateXmlResourceDialog/0.25.1280.775/1280.25.1440.824@0.25.1280.775" timestamp="1608422997283" />
     <state x="132" y="205" width="960" height="439" key="DiffContextDialog" timestamp="1606419724739">
       <screen x="0" y="25" width="1280" height="724" />
     </state>

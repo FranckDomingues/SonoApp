@@ -3,10 +3,12 @@ package com.example.sono;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.media.Rating;
 import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -22,6 +24,7 @@ public class ResultActivity extends AppCompatActivity {
 
         TextView scoreTxtView = (TextView) findViewById(R.id.score);
         RatingBar ratingBar = (RatingBar)findViewById(R.id.ratingBar1);
+
         ImageView img = (ImageView)findViewById(R.id.img1);
 
 
