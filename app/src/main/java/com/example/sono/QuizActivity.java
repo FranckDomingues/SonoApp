@@ -24,7 +24,6 @@ public class QuizActivity extends AppCompatActivity {
 
     //put question id into list 25-11-2020-23:42
     List<Question> questionList;
-    int hello;
     int quid = 0;
     Question currentQuestion;
     TextView txtQuestion;
@@ -93,13 +92,13 @@ public class QuizActivity extends AppCompatActivity {
         }
         else {
             currentQuestion.equals(10);
+            highscore();
             finish();
         }
 
     }
 
-
-    public void highscore(View v){
+    public void highscore(){
         Intent intent = new Intent(QuizActivity.this, ResultActivity.class);
         startActivity(intent);
         finish();
